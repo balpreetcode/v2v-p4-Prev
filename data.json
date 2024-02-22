@@ -1,0 +1,93 @@
+[
+    
+    {
+        "Category": "Product Info",
+        "Sub Category": "Available Rooms",
+        "Sub Sub Category": "Information on room types",
+        "Information": "We have 3 types of rooms"
+    },
+    {
+        "Category": "Product Info",
+        "Sub Category": "Available Rooms",
+        "Sub Sub Category": "Availability status",
+        "Information": "Yes, we have the rooms available"
+    },
+    {
+        "Category": "Product Info",
+        "Sub Category": "Available Rooms",
+        "Sub Sub Category": "Others",
+        "Information": "Any other information not related to this"
+    },
+    {
+        "Category": "Product Info",
+        "Sub Category": "Pricing",
+        "Sub Sub Category": "Detailed pricing for different room types",
+        "Information": "10K per day"
+    },
+    {
+        "Category": "Product Info",
+        "Sub Category": "Pricing",
+        "Sub Sub Category": "Special offers and discounts",
+        "Information": "We offer discounts on weekdays"
+    },
+    {
+        "Category": "Product Info",
+        "Sub Category": "Pricing",
+        "Sub Sub Category": "Others",
+        "Information": "Any other information not related to this"
+    },
+    {
+        "Category": "Product Info",
+        "Sub Category": "Amenities",
+        "Sub Sub Category": "Room specific amenities",
+        "Information": "Each room type comes with its own set of amenities, including but not limited to luxurious bedding, en-suite bathrooms, Wi-Fi, and in-room entertainment systems. For detailed information on what each room offers, please visit our amenities section."
+    },
+    {
+        "Category": "Product Info",
+        "Sub Category": "Amenities",
+        "Sub Sub Category": "Common amenities for all guests",
+        "Information": "Our hotel provides a range of common amenities accessible to all guests, including a fitness center, swimming pool, on-site dining options, and a business center. Complimentary Wi-Fi is available throughout the property."
+    },
+    {
+        "Category": "Product Info",
+        "Sub Category": "Amenities",
+        "Sub Sub Category": "Others",
+        "Information": "Any other information not related to this"
+    },
+    {
+        "Category": "Billing",
+        "Sub Category": "Refund",
+        "Sub Sub Category": "Refund policies",
+        "Information": "Our refund policies are designed to be fair and transparent. Refunds on cancellations are available up to 48 hours before the scheduled check-in, with a full refund minus a small processing fee. For late cancellations or no-shows, charges may apply. Detailed policies can be found in our terms and conditions."
+    },
+    {
+        "Category": "Billing",
+        "Sub Category": "Refund",
+        "Sub Sub Category": "Process for requesting refunds",
+        "Information": "To request a refund, guests are required to contact our customer service team with their booking details. The team will guide you through the process, which involves verifying the booking information and processing the refund according to our policies."
+    },
+    {
+        "Category": "Billing",
+        "Sub Category": "Refund",
+        "Sub Sub Category": "Others",
+        "Information": "Any other information not related to this"
+    },
+    {
+        "Category": "Billing",
+        "Sub Category": "Payment issue",
+        "Sub Sub Category": "Common payment issues",
+        "Information": "We will help you solve it"
+    },
+    {
+        "Category": "Billing",
+        "Sub Category": "Payment issue",
+        "Sub Sub Category": "Solutions for payment problems",
+        "Information": " If you encounter any payment issues, please reach out to our billing department immediately. We are committed to resolving such issues swiftly by working with your bank or payment provider, correcting any billing errors, and ensuring a hassle-free resolution."
+    },
+    {
+        "Category": "Billing",
+        "Sub Category": "Payment issue",
+        "Sub Sub Category": "Others",
+        "Information": "Any other information not related to this"
+    }
+]

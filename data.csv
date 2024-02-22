@@ -1,0 +1,16 @@
+Category,Sub Category,Sub Sub Category,Information
+Product Info,Available Rooms,Information on room types,We have 3 types of rooms
+Product Info,Available Rooms,Availability status,"Yes, we have the rooms available"
+Product Info,Available Rooms,Others,Any other information not related to this
+Product Info,Pricing,Detailed pricing for different room types,10K per day
+Product Info,Pricing,Special offers and discounts,We offer discounts on weekdays
+Product Info,Pricing,Others,Any other information not related to this
+Product Info,Amenities,Room specific amenities,"Each room type comes with its own set of amenities, including but not limited to luxurious bedding, en-suite bathrooms, Wi-Fi, and in-room entertainment systems. For detailed information on what each room offers, please visit our amenities section."
+Product Info,Amenities,Common amenities for all guests,"Our hotel provides a range of common amenities accessible to all guests, including a fitness center, swimming pool, on-site dining options, and a business center. Complimentary Wi-Fi is available throughout the property."
+Product Info,Amenities,Others,Any other information not related to this
+Billing,Refund,Refund policies,"Our refund policies are designed to be fair and transparent. Refunds on cancellations are available up to 48 hours before the scheduled check-in, with a full refund minus a small processing fee. For late cancellations or no-shows, charges may apply. Detailed policies can be found in our terms and conditions."
+Billing,Refund,Process for requesting refunds,"To request a refund, guests are required to contact our customer service team with their booking details. The team will guide you through the process, which involves verifying the booking information and processing the refund according to our policies."
+Billing,Refund,Others,Any other information not related to this
+Billing,Payment issue,Common payment issues,We will help you solve it
+Billing,Payment issue,Solutions for payment problems," If you encounter any payment issues, please reach out to our billing department immediately. We are committed to resolving such issues swiftly by working with your bank or payment provider, correcting any billing errors, and ensuring a hassle-free resolution."
+Billing,Payment issue,Others,Any other information not related to this
