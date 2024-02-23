@@ -17,6 +17,6 @@ print('type_value:', type_value)
 print('filler_no:', filler_no)
 print('Category:', Category)
 print('Sub_Category:', Sub_Category)
-get_subsubcategory(Category, Sub_Category, query)
+# get_subsubcategory(Category, Sub_Category, query)
 chat_history = []
-# info = part2.response_type(query, category_filler, chat_history)
+info = part2.response_type(query, category_filler, chat_history)
