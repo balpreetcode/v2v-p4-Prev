@@ -123,3 +123,46 @@ def llama_get_category(query):
     # print(f"Total time taken: {total_time} seconds")
 
     return results
+
+def get_subsubcategory(Category, Sub_Category,chat_history, query):
+  def chat_with_user():
+    messages = [
+        {
+            "role": "system",
+            "content": (
+            '''You are a Hotel receptionist who provides responses to customer queries
+            Respond with a Question sub sub category as json format {"category":"<>"}. Values can be Billing, product Info, FAQs
+            FAQ questions include "What is your name?", "Is this the Grand Holiday Hotel?", "Do you have room service?", "Do you have Wi-Fi?", "What's the checkout time?"
+            Always respond with following json format {"subsubCategory": "<subsubcategory>"}''' + f'Category: {Category} Sub Category: {Sub_Category}'+ f'User Query: {query}'+ f'Chat History: {messages}'
+            ),
+        }
+    ]
+
+    query = input('user:')
+    print(query)
+    messages.append({"role": "user", "content": query})
+
+
+    # Chat completion with streaming
+    response_stream = openai.ChatCompletion.create(
+        model=model_name,
+        messages=messages,
+        api_base="https://api.perplexity.ai",
+        api_key=PPLX_API_KEY,
+        stream=True,
+    )
+
+    for response in response_stream:
+        if 'choices' in response:
+            content = response['choices'][0]['message']['content']
+            # new_content = content.replace(processed_content, "", 1).strip()  # Remove already processed content
+            print(content)
+
+    if content.strip():
+        messages.append({"role": "assistant", "content": content.strip()})
+        print('final answer:', content.strip())
+
+chat_with_user()
+    
+            
+        
