@@ -1,0 +1,122 @@
+[
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Check-In/Out",
+        "Sub Sub Category": "timing",
+        "Information": "What are the check-in and check-out times? Check-in is at 3 PM, and check-out is at 11 AM. Early check-in or late check-out can be arranged based on availability."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Amenities",
+        "Sub Sub Category": "Wi-Fi",
+        "Information": "How can I access the hotel Wi-Fi? Wi-Fi is available throughout the hotel and is complimentary. Connect to 'HotelGuest' with the provided password."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Amenities",
+        "Sub Sub Category": "Parking",
+        "Information": "Is parking available at the hotel? Yes, we offer on-site parking on a first-come, first-served basis for a daily rate of [insert rate]."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Room Features",
+        "Sub Sub Category": "Extra Bed/Crib",
+        "Information": "Can I request an extra bed or crib in my room? We can provide an extra bed or crib upon request, subject to availability. There may be an additional charge for an extra bed."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Policies",
+        "Sub Sub Category": "Pet Policy",
+        "Information": "Are pets allowed in the hotel? Pets are welcome with prior notice and a fee of [insert fee] per stay. Please refer to our pet policy for details."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Services",
+        "Sub Sub Category": "Laundry",
+        "Information": "Do you offer laundry services? Yes, we offer laundry and dry cleaning services. Items given before [insert time] will be returned the same day."
+    },
+    {
+        "Category": "Account Specific",
+        "Sub Category": "Room Booking",
+        "Sub Sub Category": "Availability",
+        "Information": "Can you check if there are any rooms available for next weekend?For room availability, please provide specific dates and we will check our current availability for you."
+    },
+    {
+        "Category": "Account Specific",
+        "Sub Category": "Billing",
+        "Sub Sub Category": "Invoice",
+        "Information": "Can you send the invoice for my last stay to my email? To send an invoice to your email, we'll need to confirm your booking details. Please provide your room number and dates of stay."
+    },
+    {
+        "Category": "Account Specific",
+        "Sub Category": "Billing",
+        "Sub Sub Category": "Billing Information",
+        "Information": "How can I review the charges made to my room during my stay? To review detailed billing information, please provide your room number and the name the room was booked under."
+    },
+    {
+        "Category": "Account Specific",
+        "Sub Category": "Refunds",
+        "Sub Sub Category": "Status",
+        "Information": "What's the status of my refund request for the canceled booking? For refund status, we need your booking ID and the name under which the reservation was made to retrieve the information."
+    },
+    {
+        "Category": "Account Specific",
+        "Sub Category": "Feedback",
+        "Sub Sub Category": "Complaint",
+        "Information": "How do I log a complaint about the room service I received? To log a complaint, please provide us with your room number, the date of the incident, and a brief description of the issue."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Information",
+        "Sub Sub Category": "Local Attractions",
+        "Information": "What are some must-see attractions nearby? Our city has many attractions to offer. Our reception team can provide you with a map and recommendations."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Information",
+        "Sub Sub Category": "Transportation",
+        "Information": "How can I get to the city center from the hotel? You can take the [insert public transport options], or we can arrange a taxi for you. The city center is [insert distance] away."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Services",
+        "Sub Sub Category": "Room Service",
+        "Information": "Is room service available and at what times? Room service is available from [insert hours], offering a selection of dishes from our in-house menu."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Amenities",
+        "Sub Sub Category": "Fitness Center",
+        "Information": "What are the hours for the fitness center? Our fitness center is open from [insert hours] and is accessible with your room key."
+    },
+    {
+        "Category": "Account Specific",
+        "Sub Category": "Booking",
+        "Sub Sub Category": "Change Request",
+        "Information": "I need to change the dates of my reservation. How can I do that? To change your reservation dates, please provide your booking ID and the new dates you're requesting."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Policies",
+        "Sub Sub Category": "Smoking Policy",
+        "Information": "What is the hotel's smoking policy? Our hotel is entirely non-smoking. Smoking is permitted in designated outdoor areas only."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Amenities",
+        "Sub Sub Category": "Spa Services",
+        "Information": "Do you offer spa services? Yes, our spa offers a range of services including massages and treatments, open from [insert hours]."
+    },
+    {
+        "Category": "Account Specific",
+        "Sub Category": "Services",
+        "Sub Sub Category": "Special Request",
+        "Information": "Can I have a surprise arrangement made for my partner's birthday? For special arrangements, please provide details about your request, and we'll do our best to accommodate it."
+    },
+    {
+        "Category": "General Inquiry",
+        "Sub Category": "Check-In/Out",
+        "Sub Sub Category": "Early Check-In",
+        "Information": "Can I check in early if I arrive before the standard check-in time? Early check-in is subject to availability. Please contact us in advance and we'll do our best to accommodate your request."
+    }
+]
