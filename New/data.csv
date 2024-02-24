@@ -1,0 +1,21 @@
+Category,Sub Category,Sub Sub Category,Information
+General Inquiry,Check-In/Out,timing,"What are the check-in and check-out times? Check-in is at 3 PM, and check-out is at 11 AM. Early check-in or late check-out can be arranged based on availability."
+General Inquiry,Amenities,Wi-Fi,How can I access the hotel Wi-Fi? Wi-Fi is available throughout the hotel and is complimentary. Connect to 'HotelGuest' with the provided password.
+General Inquiry,Amenities,Parking,"Is parking available at the hotel? Yes, we offer on-site parking on a first-come, first-served basis for a daily rate of [insert rate]."
+General Inquiry,Room Features,Extra Bed/Crib,"Can I request an extra bed or crib in my room? We can provide an extra bed or crib upon request, subject to availability. There may be an additional charge for an extra bed."
+General Inquiry,Policies,Pet Policy,Are pets allowed in the hotel? Pets are welcome with prior notice and a fee of [insert fee] per stay. Please refer to our pet policy for details.
+General Inquiry,Services,Laundry,"Do you offer laundry services? Yes, we offer laundry and dry cleaning services. Items given before [insert time] will be returned the same day."
+Account Specific,Room Booking,Availability,"Can you check if there are any rooms available for next weekend?For room availability, please provide specific dates and we will check our current availability for you."
+Account Specific,Billing,Invoice,"Can you send the invoice for my last stay to my email? To send an invoice to your email, we'll need to confirm your booking details. Please provide your room number and dates of stay."
+Account Specific,Billing,Billing Information,"How can I review the charges made to my room during my stay? To review detailed billing information, please provide your room number and the name the room was booked under."
+Account Specific,Refunds,Status,"What's the status of my refund request for the canceled booking? For refund status, we need your booking ID and the name under which the reservation was made to retrieve the information."
+Account Specific,Feedback,Complaint,"How do I log a complaint about the room service I received? To log a complaint, please provide us with your room number, the date of the incident, and a brief description of the issue."
+General Inquiry,Information,Local Attractions,What are some must-see attractions nearby? Our city has many attractions to offer. Our reception team can provide you with a map and recommendations.
+General Inquiry,Information,Transportation,"How can I get to the city center from the hotel? You can take the [insert public transport options], or we can arrange a taxi for you. The city center is [insert distance] away."
+General Inquiry,Services,Room Service,"Is room service available and at what times? Room service is available from [insert hours], offering a selection of dishes from our in-house menu."
+General Inquiry,Amenities,Fitness Center,What are the hours for the fitness center? Our fitness center is open from [insert hours] and is accessible with your room key.
+Account Specific,Booking,Change Request,"I need to change the dates of my reservation. How can I do that? To change your reservation dates, please provide your booking ID and the new dates you're requesting."
+General Inquiry,Policies,Smoking Policy,What is the hotel's smoking policy? Our hotel is entirely non-smoking. Smoking is permitted in designated outdoor areas only.
+General Inquiry,Amenities,Spa Services,"Do you offer spa services? Yes, our spa offers a range of services including massages and treatments, open from [insert hours]."
+Account Specific,Services,Special Request,"Can I have a surprise arrangement made for my partner's birthday? For special arrangements, please provide details about your request, and we'll do our best to accommodate it."
+General Inquiry,Check-In/Out,Early Check-In,Can I check in early if I arrive before the standard check-in time? Early check-in is subject to availability. Please contact us in advance and we'll do our best to accommodate your request.
