@@ -131,11 +131,11 @@ def final_sub_sub_category(sub_category, query):
 def response_type(query, category, type_value, chat_history):
    
     if type_value == '1':
-        print("yes")     ## run faiss code
+        print("General Inquiry")     
         chat_history = prompt_response.play_prompt_response(chat_history, query)
 
     else:
-        print("no")   # run fetch data.py
+        print("Account Specific Inquiry")   
         sub_category = fetch_sub_category(category)
         print('sub_category:', sub_category)
         # info = find_information(data, sub_category)
